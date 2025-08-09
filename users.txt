@@ -1,0 +1,3 @@
+Usernames and Passwords should be saved in this file on a new line in a "username,password" Format.
+CUFIC,STRONG
+PythonSucks,GRRR
